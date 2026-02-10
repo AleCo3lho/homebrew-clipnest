@@ -1,6 +1,6 @@
 cask "clipnest-app" do
-  version "0.0.1"
-  sha256 "0a69078fc26bf36dbc726e7f49de9535074155d29ead7a7b72e6ce1f873c2526"
+  version "0.0.2"
+  sha256 "7925cf0b3e9095c0583c3137f3eb9b3c8c70762fa8750901c8b00069affecd76"
 
   url "https://github.com/AleCo3lho/clipnest/releases/download/v#{version}/ClipNest.app.zip"
   name "ClipNest"

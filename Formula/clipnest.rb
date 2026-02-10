@@ -1,8 +1,8 @@
 class Clipnest < Formula
   desc "Privacy-first clipboard manager for macOS"
   homepage "https://github.com/AleCo3lho/clipnest"
-  url "https://github.com/AleCo3lho/clipnest/archive/refs/tags/v0.0.1.tar.gz"
-  sha256 "cd503bd8c35e6530dbb321fad3082f98694c88340f4a062ab98b09faf5e27023"
+  url "https://github.com/AleCo3lho/clipnest/archive/refs/tags/v0.0.2.tar.gz"
+  sha256 "d738327ab4c0a9056cad9a1dd85dd61f4875ac5b9475480d6e5ff2576f3b4396"
   license "MIT"
 
   depends_on "go" => :build
