@@ -1,6 +1,6 @@
 cask "clipnest-app" do
-  version "PLACEHOLDER"
-  sha256 "PLACEHOLDER"
+  version "0.0.1"
+  sha256 "0a69078fc26bf36dbc726e7f49de9535074155d29ead7a7b72e6ce1f873c2526"
 
   url "https://github.com/AleCo3lho/clipnest/releases/download/v#{version}/ClipNest.app.zip"
   name "ClipNest"
